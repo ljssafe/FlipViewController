@@ -1,4 +1,4 @@
 FlipViewController
 ==================
 
-An UIViewController extension for Flip animation
+An UIViewController extension with Flip animation
