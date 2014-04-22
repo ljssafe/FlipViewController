@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'FlipViewController'
-  s.version      = '0.0.1'
+  s.version      = '1.0.0'
   s.license	 = 'MIT'
   s.requires_arc = true
   s.platform     = :ios, '6.0'
