@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.authors 	 = {'Vincenzo Romano' => 'enzxx84@gmail.com'}
   s.source 	 = {
     :git => 'https://github.com/elchief84/FlipViewController.git',
-    :tag => '0.0.1'
+    :tag => '1.0.0'
   }
   s.source_files = 'Classes/*.{h,m}'
 end
